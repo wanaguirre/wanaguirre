@@ -1,4 +1,4 @@
-<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1%20Gif.gif" />
+<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_Gif.gif" />
 # Hi there 👋
 
 <!--
