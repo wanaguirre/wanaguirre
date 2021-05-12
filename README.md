@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1%20Gif.gif" />
+# Hi there 👋
 
 <!--
 **wanaguirre/wanaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
