@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" height="auto" style="border-radius:50%"></a>
+<a><img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" height="auto" style="border-radius:50%"></a>
 <img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" style="border-style: 2px solid red; border-radius: 20px;" />
 <kbd><img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" style="border-radius: 20px" /></kbd>
 <table><tr><td>
