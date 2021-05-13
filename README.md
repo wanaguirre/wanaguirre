@@ -1,6 +1,6 @@
 <a href="url"><img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" height="auto" style="border-radius:50%"></a>
 <img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" style="border-style: 2px solid red; border-radius: 20px;" />
-<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" class="border circle p-3" style="width: 100px; height: 100px;" />
+<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" style="width: 100px; height: 100px;" />
 
 # Hi there 👋
 
