@@ -1,5 +1,5 @@
 <a href="url"><img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" height="auto" style="border-radius:50%"></a>
-<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" border-style="border-radius: 6px;" />
+<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" width="auto" height="auto" alt="Logo" style="border-radius: 20px;" />
 # Hi there 👋
 
 <!--
