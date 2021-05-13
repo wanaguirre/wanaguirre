@@ -1,4 +1,7 @@
-<img.rounded-corners {border-radius: 7px} src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" />
+<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" class="wdn-stretch rounded-corners" />
+img {
+  border-radius: 7px;
+  }
 # Hi there 👋
 
 <!--
