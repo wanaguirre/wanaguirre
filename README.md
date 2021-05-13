@@ -1,4 +1,4 @@
-<img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_Gif.gif" />
+<img.rounded-corners {border-radius: 7px} src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif" />
 # Hi there 👋
 
 <!--
