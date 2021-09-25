@@ -1,6 +1,6 @@
 <img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif">
 
-<h1 align="center">Hi 👋, I'm Juan Aguirre</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate data scientist and engineer from Spain</h3>
 
 - 🔭 I’m currently studying on **Data Science**
