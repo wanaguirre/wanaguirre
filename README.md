@@ -28,21 +28,15 @@
 * Python
 * SQL (PostgreSQL)
 * R
-
+***
 * Web Scraping
 * Data Analysis
 * Data Visualization
 * Machine Learning
 * Data Pipelines
 * Un/Supervised Learning
-
-* AutoCAD
-* SolidWorks
-* Illustrator
-* Blender
-* Excel
-* Product Design and Innovation
-* Project Management
+***
+* AutoCAD | SolidWorks | Illustrator | Blender | Excel | Product Design and Innovation | Project Management
 
 ---
 
