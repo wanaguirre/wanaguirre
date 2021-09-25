@@ -20,5 +20,5 @@ I'm here trying to turn my career around and enter the IT field. So, I hope to b
   
 ### Skills
 * 🐍 Python
-* 🐘 SQL 
+* 🐘 SQL
 * :registered: R
