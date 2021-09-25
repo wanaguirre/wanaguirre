@@ -29,7 +29,6 @@
 * SQL (PostgreSQL)
 * R
 
-<br>
 
 * Web Scraping
 * Data Analysis
