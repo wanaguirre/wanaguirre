@@ -14,6 +14,7 @@ I'm here trying to turn my career around and enter the IT field. So, I hope to b
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+</details>
 
 ---
   
