@@ -33,14 +33,15 @@
 * Python
 * SQL (PostgreSQL)
 * R
+* Git
 
 
-* Web Scraping
-* Data Analysis
-* Data Visualization
-* Machine Learning
-* Data Pipelines
-* Un/Supervised Learning
+- Web Scraping
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Data Pipelines
+- Un/Supervised Learning
 
 <br>
 
