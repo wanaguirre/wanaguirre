@@ -43,7 +43,6 @@
 - Data Pipelines
 - Un/Supervised Learning
 
-<br>
 
 * AutoCAD | SolidWorks | Illustrator | Blender | Excel | Product Design and Innovation | Project Management
 
