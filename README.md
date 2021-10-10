@@ -19,11 +19,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
-2. ❌ Closed PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
-3. ❌ Reopened PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
-4. ❌ Closed PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
-5. 💪 Opened PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
+
 <!--END_SECTION:activity-->
 </details>
 
