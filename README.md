@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I'm currently living in a van in Zurich** [Blog](https://juanacfree.medium.com/)
 
 ---
-
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -26,7 +26,7 @@
 5. 💪 Opened PR [#1](https://github.com/LisaChr/Telcom_Churn_Prediction/pull/1) in [LisaChr/Telcom_Churn_Prediction](https://github.com/LisaChr/Telcom_Churn_Prediction)
 <!--END_SECTION:activity-->
 </details>
-
+-->
 ---
   
 ### Skills
