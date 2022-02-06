@@ -37,7 +37,6 @@
 ### Skills
 * Python
 * SQL (PostgreSQL)
-* R
 * Git
 
 
@@ -47,6 +46,8 @@
 - Machine Learning
 - Data Pipelines
 - Un/Supervised Learning
+- Natural Language Processing (NLP) 
+- Artificial Neural Network (ANN)
 
 
 * AutoCAD | SolidWorks | Illustrator | Blender | Excel | Product Design and Innovation | Project Management
