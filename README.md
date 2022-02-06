@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate data scientist and engineer from Spain</h3>
 
-- 🔭 I’m currently studying on **Data Science**
+- 🔭 Working as a **Data Scientist** in Zurich
 
 - 👯 I’m looking to collaborate on **projects with other data enthusiasts**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/juan-aguirre-c/)
 
-- ⚡ Fun fact **I'm currently living in a van in Zurich** [Blog](https://juanacfree.medium.com/)
+<!-- ⚡ Fun fact **I'm currently living in a van in Zurich** [Blog](https://juanacfree.medium.com/) -->
 
 ---
 <!--
