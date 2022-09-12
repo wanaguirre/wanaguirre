@@ -1,7 +1,7 @@
 <img src="https://github.com/wanaguirre/wanaguirre/blob/main/1_gif.gif">
 
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate data scientist and engineer from Spain</h3>
+<h3 align="center">Passionate data scientist and engineer</h3>
 
 - 🔭 Working as a **Data Scientist** in Zurich
 
